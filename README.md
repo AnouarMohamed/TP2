@@ -63,7 +63,7 @@ Depuis le contrôleur ou un `CommandLineRunner`, tester :
 
 ---
 
-### 6️⃣ Migration vers MySQL
+###  Migration vers MySQL
 
 Modifier `application.properties` :
 
@@ -77,7 +77,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
 ---
 
-### 7️⃣ Étendre le projet (bonus des vidéos)
+###  Étendre le projet (bonus des vidéos)
 Reprendre les exemples de gestion de :
 -  **Patient**
 -  **Médecin**
@@ -114,6 +114,7 @@ Encadré par *[nom de l’enseignant si applicable]*
 
 ---
 
-## 🏁 Statut du projet
+##  Statut du projet
 
  Terminé — Migré vers MySQL et testé avec Postman.
+
