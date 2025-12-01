@@ -110,11 +110,11 @@ Ces entités permettront d’explorer :
 
 **Anouar Mohamed**  
 Projet académique — TP2 Spring Boot  
-Encadré par *[nom de l’enseignant si applicable]*
 
 ---
 
 ##  Statut du projet
 
  Terminé — Migré vers MySQL et testé avec Postman.
+
 
